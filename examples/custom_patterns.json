@@ -1,0 +1,11 @@
+{
+  "patterns": [
+    {
+      "name": "Custom Educational FTP",
+      "pattern": "MyFTP.*Server.*v[0-9]+",
+      "info_level": "IDENTIFIED",
+      "description": "Custom FTP implementation for testing",
+      "learning_notes": "Example of custom pattern for educational purposes"
+    }
+  ]
+}
