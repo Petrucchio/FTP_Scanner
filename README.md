@@ -240,14 +240,14 @@ class CustomAssessmentTool(NetworkAssessmentTool):
 ## 🧪 Testing
 
 ```bash
-# Run unit tests
-python -m pytest tests/
+# Test the tool with verbose output
+python ftp_scanner.py 127.0.0.1 -v
 
-# Test specific components
-python -m pytest tests/test_scanner.py -v
+# Test with sample hosts file
+python ftp_scanner.py examples/hosts.txt -f
 
-# Coverage report
-python -m pytest --cov=ftp_scanner tests/
+# Test pattern display
+python ftp_scanner.py --show-patterns
 ```
 
 ## 📚 Documentation
