@@ -109,20 +109,13 @@ python ftp_scanner.py 192.168.1.1 -P custom_patterns.json
 
 ```
 ftp-assessment-tool/
-├── ftp_scanner.py          # Main educational assessment tool
-├── README.md               # Project documentation
-├── LICENSE                 # MIT License
-├── examples/
-│   ├── hosts.txt          # Sample hosts file
-│   ├── custom_patterns.json # Sample custom patterns
-│   └── sample_output.json  # Example report output
-├── docs/
-│   ├── TECHNICAL_GUIDE.md  # Technical implementation details
-│   ├── EDUCATIONAL_GUIDE.md # Learning objectives and concepts
-│   └── LEGAL_NOTICE.md     # Comprehensive legal information
-└── tests/
-    ├── test_scanner.py     # Unit tests
-    └── test_patterns.py    # Pattern matching tests
+├── ftp_scanner.py          # Arquivo principal
+├── README.md               # Documentação
+├── LICENSE                 # Licença MIT
+├── examples/               # Exemplos práticos
+│   ├── hosts.txt          # Lista de hosts para teste
+│   └── custom_patterns.json # Padrões personalizados
+└── requirements.txt        # Dependências (vazio - só stdlib)
 ```
 
 ## 🏗️ Architecture
