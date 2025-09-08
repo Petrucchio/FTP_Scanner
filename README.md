@@ -52,7 +52,7 @@ python --version
 ### Quick Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ftp-assessment-tool.git
+git clone https://github.com/Petrucchio/FTP_Scanner/tree/main
 cd ftp-assessment-tool
 
 # No external dependencies required - uses Python standard library only!
@@ -278,7 +278,7 @@ We welcome educational contributions! Please see our [Contributing Guidelines](C
 ### Development Setup
 ```bash
 # Clone and setup development environment
-git clone https://github.com/your-username/ftp-assessment-tool.git
+git clone https://github.com/Petrucchio/FTP_Scanner/tree/main
 cd ftp-assessment-tool
 
 # Install development dependencies
@@ -315,16 +315,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Author**: [Your Name](https://github.com/your-username)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **Email**: your.email@domain.com
-- **Issues**: [GitHub Issues](https://github.com/your-username/ftp-assessment-tool/issues)
+- **Author**: [Victor farias](https://github.com/Petrucchio)
+- **LinkedIn**: [Victor Linkedin](https://www.linkedin.com/in/victorjosecostafarias)
+- **Email**: victor.farias.profile@gmail.com
 
-### Getting Help
-1. Check the [documentation](docs/) for detailed guides
-2. Search [existing issues](https://github.com/your-username/ftp-assessment-tool/issues)
-3. Open a new issue with detailed information
-4. Join discussions in the [GitHub Discussions](https://github.com/your-username/ftp-assessment-tool/discussions)
 
 ---
 
